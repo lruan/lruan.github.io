@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 75% palatino;
+}
+
+.page-wrapper {
+    background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left;
+}
