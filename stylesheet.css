@@ -26,10 +26,6 @@ body {
 	padding: 0;
 }
 
-.page-wrapper {
-    background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left;
-}
-
 .maintext {
 	background-color: #ffffff;
 	padding: 10px;
@@ -64,4 +60,22 @@ li {
 .sidebar {
 	flex: 1;
 	margin-left: 400px;
+}
+
+.chapter {
+	margin: 4px;
+	padding-left: 20px;
+	padding-right: 50px;
+	background: #dddd88;
+	flex: 3 1 60%;
+	order: 1;
+}
+
+.return {
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+	color: 
 }
