@@ -13,8 +13,8 @@ header {
 	background: url('woodbackground.png');
 	text-align: center;
 	color: #ffffff;
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 70px;
+	padding-bottom: 70px;
 }
 
 body { 
@@ -79,5 +79,13 @@ li {
 .infotable {
 	text-align: center;
 	align-content: center;
-	margin: 0 auto;
+	background: url('woodbackground.png');
+}
+
+.contact-table {
+	background-color: yellow;
+}
+
+.firstcol {
+	font-style: bold;
 }
