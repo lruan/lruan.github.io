@@ -79,13 +79,22 @@ li {
 .infotable {
 	text-align: center;
 	align-content: center;
-	background: url('woodbackground.png');
 }
 
 .contact-table {
-	background-color: yellow;
+	margin: 0 auto;
 }
 
 .firstcol {
 	font-style: bold;
+	color: black;
+	stroke: red;
+}
+
+tr:nth-child(odd) {
+	background-color: #b2b255;
+}
+
+tr:nth-child(even) {
+	background-color: #5b5b2c;
 }
